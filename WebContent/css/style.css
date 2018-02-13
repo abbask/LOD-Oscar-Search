@@ -1,0 +1,52 @@
+@CHARSET "ISO-8859-1";
+
+
+body{
+	font-family: Trebuchet,Verdana,Arial,sans-serif;
+	font-size: smaller;
+}
+
+.content{
+	margin-top: 20px;
+}
+
+#personalInfoDiv{
+	margin-left: 5px;
+	margin-top: 10px;
+}
+
+#movieInfoDiv{
+	margin-left: 5px;
+	margin-top: 10px;
+}
+
+#abstractDiv{
+	text-align: justify;
+    text-justify: inter-word;
+}
+
+div.wrapper{
+	width:1024px; 
+	margin:0 auto;
+}
+
+select {
+      width: 150px;
+
+}
+
+#selectAward{
+	width:250px;
+}
+
+.alignLeft {
+	float: left;
+}
+
+.clearRight{
+	clear:right;
+}
+
+.clearBoth{
+	clear:both;
+}
